@@ -1,9 +1,11 @@
 #  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;a+ivanruedas85!)
 
 ---
+
 Soy **marroquinero** de profesión y **apasionado** de la ***tecnología***, especializado en desarrollo de aplicaciones multiplataforma. Mi motivación nace de la necesidad de *optimizar* y *automatizar* procesos cotidianos en mi taller, combinando así mi expertise **artesanal** con la innovación tecnológica.
 
 He aplicado mis conocimientos en programación para crear ***soluciones personalizadas***, como *sistemas de gestión de ventas*, *control de inventario*, *seguimiento de gastos* y hasta mi propio *catálogo web*. Me encanta **diseñar**, **desarrollar** y transformar ideas en herramientas prácticas que simplifiquen el trabajo diario.
+
 ---
 
 📧 darthmaul666@protonmail.com 
