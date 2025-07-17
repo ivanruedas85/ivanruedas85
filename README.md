@@ -1,4 +1,6 @@
-#  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;a+ivanruedas85!)
+# 👋 Hola soy Ivan Ruedas
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;a+mi+github+profile!)
 
 ---
 
@@ -59,5 +61,6 @@ He aplicado mis conocimientos en programación para crear ***soluciones personal
 <p/>
 
 ---
+## ✨ Visitors
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanruedas85" alt="ivanruedas85" /> </p>
