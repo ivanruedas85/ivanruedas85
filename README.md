@@ -49,6 +49,3 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" width="48" title="RaspberryPi">
 <p/>
-
----
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
