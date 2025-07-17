@@ -1,5 +1,10 @@
 #  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;a+ivanruedas85!)
 
+---
+Soy un entuciasta de la tecnología, me gusta la programación principalmente en aplicaciones multiplataforma.
+Me gusta diseñar, crear y automatizar procesos que llevo cotidianamente.
+---
+
 📧 darthmaul666@protonmail.com 
 
 ---
@@ -15,7 +20,7 @@
 
 ---
 
-## **🛠️ Lenguajes, Tecnologías y Habilidades**  
+## **🛠️ Lenguajes y Tecnologías**  
 
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
