@@ -2,14 +2,6 @@
 
 ---
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ivanruedas85}/count.svg" /></p> 
-<br>
-</div>
-
----
-
 Soy **marroquinero** de profesión y **apasionado** de la ***tecnología***, especializado en desarrollo de aplicaciones multiplataforma. Mi motivación nace de la necesidad de *optimizar* y *automatizar* procesos cotidianos en mi taller, combinando así mi expertise **artesanal** con la innovación tecnológica.
 
 He aplicado mis conocimientos en programación para crear ***soluciones personalizadas***, como *sistemas de gestión de ventas*, *control de inventario*, *seguimiento de gastos* y hasta mi propio *catálogo web*. Me encanta **diseñar**, **desarrollar** y transformar ideas en herramientas prácticas que simplifiquen el trabajo diario.
@@ -65,3 +57,7 @@ He aplicado mis conocimientos en programación para crear ***soluciones personal
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" width="48" title="RaspberryPi">
 <p/>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanruedas85" alt="ivanruedas85" /> </p>
