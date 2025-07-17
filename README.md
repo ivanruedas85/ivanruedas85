@@ -1,6 +1,6 @@
 #  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos;a+ivanruedas85!)
 
-📧 darthmaul666@protonmail.com | 🌐 [Tu Sitio Web/Portafolio]  
+📧 darthmaul666@protonmail.com 
 
 ---
 
@@ -52,4 +52,4 @@
 
 ---
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Platane/snk/raw/output/github-user-contribution.svg)
